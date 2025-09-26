@@ -1,0 +1,1 @@
+Medical-imaging-in-deep-Learning explores the application of deep learning models for medical image analysis and classification. The repository includes implementations of popular architectures such as ResNet, VGG, EfficientNet, MobileNet, ConvNeXt, and Swin Transformer, applied to medical imaging datasets.
